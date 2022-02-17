@@ -1,0 +1,7 @@
+﻿  Game.cpp
+C:\Users\OnKhang\source\repos\spaceWar\spaceWar\Game.cpp(52,28): warning C4244: 'argument': conversion from 'T' to 'const float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  spaceWar.vcxproj -> C:\Users\OnKhang\source\repos\spaceWar\x64\Debug\spaceWar.exe
